@@ -166,11 +166,6 @@ Example metrics include:
 Swiggy_Instamart_Deck/
 │
 ├── Product Deck.pdf
-├── Product Deck.pptx
-├── Assets/
-│   ├── Images
-│   ├── Icons
-│   └── Research
 ├── README.md
 └── banner.png
 ```
